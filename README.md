@@ -1,4 +1,4 @@
-# buy-sell-api
+# buy/sell api
 
 This is a semi-RESTful API for a buy/sell app similar to Craigslist.
 
